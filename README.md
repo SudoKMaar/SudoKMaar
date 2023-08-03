@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 👋"></a>
 </p>
-<h3 align="center">💻 Full-Stack Developer by day, Pro Gamer by night 🌙</h3>
 <h3 align="center">Crafting lines of code and conquering virtual worlds </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbhishekKMaar)](https://www.linkedin.com/in/AbhishekKMaar)
@@ -35,6 +34,7 @@
 
 ### 👨‍💻 Programming and markup languages
 
+<p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bash.svg' alt='Bash' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/c-original.svg' alt='C' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/cpp.svg' alt='C++' width='30'/>
@@ -49,9 +49,11 @@
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sass.svg' alt='Sass' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sql.svg' alt='SQL' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/typescript.svg' alt='Typescript' width='30'/>
+</p>
 
 ### 🧰 Frameworks and libraries
 
+<p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bootstrap.svg' alt='Bootstrap' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/chart.svg' alt='Chart Js' width='30'/>
@@ -61,9 +63,11 @@
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/redux.svg' alt='Redux' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/tailwindcss.svg' alt='Tailwind' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/virtualbox.svg' alt='Virtual Box' width='30'/>
+</p>
 
 ### 🗄️ Databases and cloud hosting
 
+<p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/aws.svg' alt='AWS' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/firebase.svg' alt='Firebase' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/githubpages.svg' alt='Github Pages' width='30'/>
@@ -73,9 +77,11 @@
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/postgre.svg' alt='Postgre SQL' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/render.svg' alt='Render' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vercel.svg' alt='Vercel' width='30'/>
+</p>
 
 ### 💻 Software and tools
 
+<p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/adobe.svg' alt='Adobe' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/brave.svg' alt='Brave' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canva.svg' alt='Canva' width='30'/>
@@ -89,6 +95,7 @@
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/obs.svg' alt='OBS Studio' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/ubuntu.svg' alt='Ubuntu' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vscode.svg' alt='VS Code' width='30'/>
+</p>
 
 ## Other Stuff
 
