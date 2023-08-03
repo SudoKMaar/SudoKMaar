@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 👋"></a>
+  <a href="https://kmaar.vercel.app" target="_blank">
+    <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 💻 Full-Stack Developer by day, Pro Gamer by night 🌙">
+  </a>
 </p>
 <h3 align="center">Crafting lines of code and conquering virtual worlds </h3>
 
@@ -55,9 +57,9 @@
 
 <p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bootstrap.svg' alt='Bootstrap' width='30'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' width='30'/>
+<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' height='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/chart.svg' alt='Chart Js' width='30'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/express.svg' alt='Express' width='30'/>
+<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/express.svg' alt='Express' height='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/next.svg' alt='Next' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/react.svg' alt='React' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/redux.svg' alt='Redux' width='30'/>
@@ -70,7 +72,7 @@
 <p>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/aws.svg' alt='AWS' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/firebase.svg' alt='Firebase' width='30'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/githubpages.svg' alt='Github Pages' width='30'/>
+<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/githubpages.svg' alt='Github Pages' height='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mongodb.svg' alt='Mongo DB' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mysql.svg' alt='MySQL' width='30'/>
 <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/netlify.svg' alt='Netlify' width='30'/>
