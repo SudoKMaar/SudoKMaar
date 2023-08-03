@@ -3,11 +3,11 @@
     <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 💻 Full-Stack Developer by day, Pro Gamer by night 🌙">
   </a>
 </p>
-<h3 align="center">Crafting lines of code and conquering virtual worlds </h3>
+<h2 align="center">Crafting lines of code and conquering virtual worlds </h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbhishekKMaar)](https://www.linkedin.com/in/AbhishekKMaar)
-[![Gmail Badge](https://img.shields.io/badge/-abhi2004shek.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi2004shek.kumar@gmail.com)](mailto:abhi2004shek.kumar@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-SudoKMaar-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SudoKMaar)](https://github.com/SudoKMaar)
+[![Gmail Badge](https://img.shields.io/badge/-abhi2004shek.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi2004shek.kumar@gmail.com)](mailto:abhi2004shek.kumar@gmail.com)
 [![Codepen Badge](https://img.shields.io/badge/-KMaar44-000000?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/kmaar44/)](https://codepen.io/kmaar44/)
 [![Instagram Badge](https://img.shields.io/badge/-KMaar44-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmaar44/)](https://www.instagram.com/kmaar44/)
 [![Facebook Badge](https://img.shields.io/badge/Abhishek%20Kumar-1877F2?flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/AbhishekKMaar)](https://www.facebook.com/AbhishekKMaar)
