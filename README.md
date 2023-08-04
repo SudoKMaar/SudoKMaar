@@ -5,6 +5,8 @@
 </p>
 <h2 align="center">Crafting lines of code and conquering virtual worlds </h2>
 
+## 🔍 Find Me Online
+
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbhishekKMaar)](https://www.linkedin.com/in/AbhishekKMaar)
 [![Github Badge](https://img.shields.io/badge/-SudoKMaar-000000?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/SudoKMaar)](https://github.com/SudoKMaar)
 [![Gmail Badge](https://img.shields.io/badge/-abhi2004shek.kumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhi2004shek.kumar@gmail.com)](mailto:abhi2004shek.kumar@gmail.com)
@@ -12,7 +14,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-KMaar44-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kmaar44/)](https://www.instagram.com/kmaar44/)
 [![Facebook Badge](https://img.shields.io/badge/Abhishek%20Kumar-1877F2?flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/AbhishekKMaar)](https://www.facebook.com/AbhishekKMaar)
 [![GeekForGeeks Badge](https://img.shields.io/badge/-KMaar-2f8d46?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/kmaar)](https://auth.geeksforgeeks.org/user/kmaar)
-[![LeetCode Badge](https://img.shields.io/badge/-KMaar-FFA116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/KMaar/)](https://leetcode.com/KMaar/)
+[![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=KMaar%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKMaar&logo=leetcode&logoColor=yellow)](https://leetcode.com/KMaar/)
 [![Reddit Badge](https://img.shields.io/badge/-abhi2004shek-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/u/abhi2004shek/)](https://www.reddit.com/u/abhi2004shek/)
 [![Twitter Badge](https://img.shields.io/badge/-KMaar44-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kmaar44)](https://twitter.com/kmaar44)
 [![Snapchat Badge](https://img.shields.io/badge/-KMaar44-FFFC00?style=flat-square&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/kmaar44)](https://www.snapchat.com/add/kmaar44)
@@ -26,9 +28,13 @@
 [![Steam Badge](https://img.shields.io/badge/-KMaar-000000?style=flat-square&logo=Steam&logoColor=white&link=)]()
 [![XBOX Badge](https://img.shields.io/badge/-KMaar5744-107C10?style=flat-square&logo=Xbox&logoColor=white&link=)]()
 
+## 🚦 Profile Traffic
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudokmaar&label=Profile%20views&color=0e75b6&style=flat" alt="sudokmaar" /> </p> -->
 
 ![Visitors](https://moe-counter.glitch.me/get/@sudokmaar?theme=rule34)
+
+## 🚀 Developer Activity
 
 ![KMaar's github streaks stats](https://github-readme-streak-stats.herokuapp.com/?user=SudoKMaar&theme=dark&background=0d1117&date_format=j%20M%5B%2C%20Y%5D)
 
@@ -102,7 +108,15 @@
 ## Other Stuff
 
 - :octocat: [My Resume](https://drive.google.com/file/)
+- 🌐 [My Portfolio](https://kmaar.vercel.app)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=dark&background=0d1117" alt="sudokmaar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sudokmaar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudokmaar&show_icons=true&locale=en&theme=dark&background=0d1117" alt="sudokmaar" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudokmaar&show_icons=true&locale=en&theme=dark&background=0d1117" alt="sudokmaar" /></p> -->
+
+## MOTTO
+
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/marquee.svg" />
