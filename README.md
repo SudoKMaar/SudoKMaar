@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://kmaar.vercel.app" target="_blank">
-    <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 💻 Full-Stack Developer by day, Pro Gamer by night 🌙">
-  </a>
-</p>
-<h2 align="center">Crafting lines of code and conquering virtual worlds </h2>
+  <p align="center">
+    <a href="https://kmaar.vercel.app" target="_blank">
+      <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 💻 Full-Stack Developer by day, Pro Gamer by night 🌙">
+    </a>
+  </p>
+  <h2 align="center">Crafting lines of code and conquering virtual worlds </h2>
 
 ## 🔍 Find Me Online
 
@@ -30,93 +30,94 @@
 
 ## 🚦 Profile Traffic
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudokmaar&label=Profile%20views&color=0e75b6&style=flat" alt="sudokmaar" /> </p> -->
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudokmaar&label=Profile%20views&color=0e75b6&style=flat" alt="sudokmaar" /> </p> -->
 
-![Visitors](https://moe-counter.glitch.me/get/@sudokmaar?theme=rule34)
+![Visitors](http://moe-counter-umkl.onrender.com/get/@SudoKMaar?theme=rule34)
 
 ## 🚀 Developer Activity
 
-![KMaar's github streaks stats](https://github-readme-streak-stats.herokuapp.com/?user=SudoKMaar&theme=dark&background=0d1117&date_format=j%20M%5B%2C%20Y%5D)
+![KMaar's GitHub Streak](https://streak-stats.demolab.com?user=SudoKMaar&theme=ocean-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FBB741&fire=FBB741&currStreakLabel=fbb741)
 
 ## 🛠️ Tried hands on
 
 ### 👨‍💻 Programming and markup languages
 
-<p>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bash.svg' alt='Bash' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/c-original.svg' alt='C' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/cpp.svg' alt='C++' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/csharp.svg' alt='C Sharp' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/css.svg' alt='CSS' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/html.svg' alt='HTML' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/java.svg' alt='Java' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/js.svg' alt='JS' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/markdown.svg' alt='Markdwon' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/nodejs.svg' alt='Node Js' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/python.svg' alt='Python' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sass.svg' alt='Sass' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sql.svg' alt='SQL' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/typescript.svg' alt='Typescript' width='40'/>
-</p>
+  <p>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bash.svg' alt='Bash' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/c-original.svg' alt='C' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/cpp.svg' alt='C++' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/csharp.svg' alt='C Sharp' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/css.svg' alt='CSS' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/html.svg' alt='HTML' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/java.svg' alt='Java' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/js.svg' alt='JS' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/markdown.svg' alt='Markdwon' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/nodejs.svg' alt='Node Js' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/python.svg' alt='Python' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sass.svg' alt='Sass' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sql.svg' alt='SQL' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/typescript.svg' alt='Typescript' width='40'/>
+  </p>
 
 ### 🧰 Frameworks and libraries
 
-<p>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bootstrap.svg' alt='Bootstrap' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' height='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/chart.svg' alt='Chart Js' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/express.svg' alt='Express' height='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/next.svg' alt='Next' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/react.svg' alt='React' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/redux.svg' alt='Redux' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/tailwindcss.svg' alt='Tailwind' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/virtualbox.svg' alt='Virtual Box' width='40'/>
-</p>
+  <p>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/bootstrap.svg' alt='Bootstrap' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' height='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/chart.svg' alt='Chart Js' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/express.svg' alt='Express' height='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/next.svg' alt='Next' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/react.svg' alt='React' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/redux.svg' alt='Redux' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/tailwindcss.svg' alt='Tailwind' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/virtualbox.svg' alt='Virtual Box' width='40'/>
+  </p>
 
 ### 🗄️ Databases and cloud hosting
 
-<p>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/aws.svg' alt='AWS' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/firebase.svg' alt='Firebase' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/githubpages.svg' alt='Github Pages' height='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mongodb.svg' alt='Mongo DB' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mysql.svg' alt='MySQL' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/netlify.svg' alt='Netlify' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/postgre.svg' alt='Postgre SQL' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/render.svg' alt='Render' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vercel.svg' alt='Vercel' width='40'/>
-</p>
+  <p>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/aws.svg' alt='AWS' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/firebase.svg' alt='Firebase' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/githubpages.svg' alt='Github Pages' height='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mongodb.svg' alt='Mongo DB' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/mysql.svg' alt='MySQL' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/netlify.svg' alt='Netlify' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/postgre.svg' alt='Postgre SQL' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/render.svg' alt='Render' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vercel.svg' alt='Vercel' width='40'/>
+  </p>
 
 ### 💻 Software and tools
 
-<p>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/adobe.svg' alt='Adobe' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/brave.svg' alt='Brave' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canva.svg' alt='Canva' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/codepen.svg' alt='Codepen' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/edge.svg' alt='Edge' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/framer.svg' alt='Framer' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/git.svg' alt='Git' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/github.svg' alt='Github' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/kalilinux.svg' alt='Kali Linux' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/notepadplusplus.svg' alt='Notepad++' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/obs.svg' alt='OBS Studio' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/ubuntu.svg' alt='Ubuntu' width='40'/>
-<img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vscode.svg' alt='VS Code' width='40'/>
-</p>
+  <p>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/adobe.svg' alt='Adobe' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/brave.svg' alt='Brave' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canva.svg' alt='Canva' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/codepen.svg' alt='Codepen' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/edge.svg' alt='Edge' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/framer.svg' alt='Framer' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/git.svg' alt='Git' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/github.svg' alt='Github' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/kalilinux.svg' alt='Kali Linux' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/notepadplusplus.svg' alt='Notepad++' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/obs.svg' alt='OBS Studio' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/ubuntu.svg' alt='Ubuntu' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vscode.svg' alt='VS Code' width='40'/>
+  </p>
 
 ## Other Stuff
 
-- :octocat: [My Resume](https://drive.google.com/file/)
-- 🌐 [My Portfolio](https://kmaar.vercel.app)
+- :octocat: [KMaar's Resume](https://drive.google.com/file/)
+- :globe_with_meridians: [KMaar's Portfolio](https://kmaar.vercel.app)
+- :memo: [KMaar Miscellaneous Studio](https://kmstudio.vercel.app/)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sudokmaar" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="sudokmaar" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudokmaar&show_icons=true&locale=en&theme=dark&background=0d1117" alt="sudokmaar" /></p> -->
+  <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-kmaar.vercel.app/api?username=sudokmaar&show_icons=true&locale=en&theme=dark&background=0d1117&hide_border=true" alt="sudokmaar" /></p> -->
 
 ## MOTTO
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/marquee.svg" />
+  <img height="200" alt="Thanks for visiting me" width="100%" src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/marquee.svg" />
