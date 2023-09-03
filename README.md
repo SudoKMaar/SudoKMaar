@@ -32,7 +32,7 @@
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudokmaar&label=Profile%20views&color=0e75b6&style=flat" alt="sudokmaar" /> </p> -->
 
-![Visitors](http://moe-counter-umkl.onrender.com/get/@SudoKMaar?theme=rule34)
+![Visitors](http://moe-counter-krfg.onrender.com/get/@SudoKMaar?theme=rule34)
 
 ## 🚀 Developer Activity
 
@@ -120,4 +120,4 @@
 
 > When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
-  <img height="200" alt="Thanks for visiting me" width="100%" src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/marquee.svg" />
+  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/marquee.svg" />
