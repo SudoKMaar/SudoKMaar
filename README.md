@@ -66,9 +66,14 @@
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canvas.svg' alt='Canvas Js' height='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/chart.svg' alt='Chart Js' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/express.svg' alt='Express' height='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/framer.svg' alt='Framer Motion' height='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/next.svg' alt='Next' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/react.svg' alt='React' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/redux.svg' alt='Redux' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/sanity.svg' alt='Sanity' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/shadcnui.svg' alt='ShadcnUI' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/strapi.svg' alt='Strapi' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/stripe.svg' alt='Stripe' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/tailwindcss.svg' alt='Tailwind' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/virtualbox.svg' alt='Virtual Box' width='40'/>
   </p>
@@ -95,7 +100,6 @@
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/canva.svg' alt='Canva' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/codepen.svg' alt='Codepen' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/edge.svg' alt='Edge' width='40'/>
-  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/framer.svg' alt='Framer' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/git.svg' alt='Git' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/github.svg' alt='Github' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/kalilinux.svg' alt='Kali Linux' width='40'/>
@@ -103,13 +107,14 @@
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/obs.svg' alt='OBS Studio' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/ubuntu.svg' alt='Ubuntu' width='40'/>
   <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/vscode.svg' alt='VS Code' width='40'/>
+  <img src = 'https://github.com/SudoKMaar/SudoKMaar/blob/main/images/zod.svg' alt='Zod' width='40'/>
   </p>
 
 ## Other Stuff
 
-- :octocat: [KMaar's Resume](https://drive.google.com/file/)
+- :octocat: [KMaar's Resume](https://drive.google.com/file/d/1RR2X5km32x_tTY8OJs0MO6JypQ1Z14Zg/view?usp=sharing)
 - :globe_with_meridians: [KMaar's Portfolio](https://kmaar.vercel.app)
-- :memo: [KMaar Miscellaneous Studio](https://kmstudio.vercel.app/)
+- :memo: [KMaar Miscellaneous Studio](https://kmstudio.vercel.app)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="sudokmaar" /></p>
