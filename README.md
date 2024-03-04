@@ -37,6 +37,7 @@
 ## 🚀 Developer Activity
 
 ![KMaar's GitHub Streak](https://streak-stats.demolab.com?user=SudoKMaar&theme=ocean-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FBB741&fire=FBB741&currStreakLabel=fbb741)
+<img src="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/output/snake.svg" alt="Snake animation" />
 
 ## 🛠️ Tried hands on
 
@@ -117,7 +118,7 @@
 - :memo: [KMaar Miscellaneous Studio](https://kmstudio.vercel.app)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="sudokmaar" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudokmaar&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide_border=true" alt="sudokmaar" /></p>
 
   <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats-kmaar.vercel.app/api?username=sudokmaar&show_icons=true&locale=en&theme=dark&background=0d1117&hide_border=true" alt="sudokmaar" /></p> -->
 
