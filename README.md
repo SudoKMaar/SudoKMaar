@@ -37,7 +37,12 @@
 ## 🚀 Developer Activity
 
 ![KMaar's GitHub Streak](https://streak-stats.demolab.com?user=SudoKMaar&theme=ocean-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FBB741&fire=FBB741&currStreakLabel=fbb741)
-![Snake animation](https://github.com/SudoKMaar/SudoKMaar/blob/output/snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SudoKMaar/SudoKMaar/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SudoKMaar/SudoKMaar/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/SudoKMaar/SudoKMaar/blob/output/github-snake.svg" />
+</picture>
 
 ## 🛠️ Tried hands on
 
