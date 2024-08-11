@@ -1,5 +1,5 @@
   <p align="center">
-    <a href="https://kmaar.vercel.app" target="_blank">
+    <a href="https://KMaar.vercel.app" target="_blank">
       <img src="https://github.com/SudoKMaar/SudoKMaar/blob/main/images/header.svg" alt="Its me Abhishek Kumar 💻 Full-Stack Developer by day, Pro Gamer by night 🌙">
     </a>
   </p>
@@ -18,7 +18,7 @@
 [![Reddit Badge](https://img.shields.io/badge/-abhi2004shek-FF4500?style=flat-square&logo=Reddit&logoColor=white&link=https://www.reddit.com/u/abhi2004shek/)](https://www.reddit.com/u/abhi2004shek/)
 [![Twitter Badge](https://img.shields.io/badge/-KMaar44-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/kmaar44)](https://twitter.com/kmaar44)
 [![Snapchat Badge](https://img.shields.io/badge/-KMaar44-FFFC00?style=flat-square&logo=Snapchat&logoColor=white&link=https://www.snapchat.com/add/kmaar44)](https://www.snapchat.com/add/kmaar44)
-[![Discord Badge](https://img.shields.io/badge/-kmaar-7289DA?style=flat-square&logo=Discord&logoColor=white&link=)]()
+[![Discord Badge](https://img.shields.io/badge/-kmaar-7289DA?style=flat-square&logo=Discord&logoColor=white&link=)](https://discordapp.com/users/599792027902672912)
 
 [![BattleNet Badge](https://img.shields.io/badge/-KMaar%231869-000?style=flat-square&logo=Battle.net&logoColor=white&link=)]()
 [![EpicGames Badge](https://img.shields.io/badge/-KMaar04-313131?style=flat-square&logo=Epic%20Games&logoColor=white&link=)]()
