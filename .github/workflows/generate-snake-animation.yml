@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -18,18 +18,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-            
-     - name: generate snake-dark.svg
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: generate snake-dark.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SudoKMaar
-          outputs: dist/github-snake-dark.svg?palette=github-dark
+          output: dist/github-snake-dark.svg?palette=github-dark
 
       - name: generate snake-light.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SudoKMaar
-          outputs: dist/github-snake.svg?palette=github-light
+          output: dist/github-snake.svg?palette=github-light
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
