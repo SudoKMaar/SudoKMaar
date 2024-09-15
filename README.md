@@ -45,7 +45,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/output/github-snake.svg" />
-  <img alt="GitHUb Contribution Heatmap" src="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/output/github-snake.svg" />
+  <img alt="SudoKMaar's GitHub Contribution Heatmap" src="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/output/github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/dsaStats/dsa-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/dsaStats/dsa-stats.svg" />
+  <img alt="KMaar's DSA Stats" src="https://raw.githubusercontent.com/SudoKMaar/SudoKMaar/dsaStats/dsa-stats.svg" />
 </picture>
 
 ## 🛠️ Tried hands on
